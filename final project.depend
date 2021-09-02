@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1576943660 source:c:\users\lenovo\desktop\final project\colors.c
+
+1576943660 source:c:\users\lenovo\desktop\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<winbase.h>
+	<stdbool.h>
+
+1576907662 source:c:\users\eng_b\desktop\final project\colors.c
+
+1576907662 source:c:\users\eng_b\desktop\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<winbase.h>
+	<stdbool.h>
+
+1576955676 source:c:\users\eng_b\desktop\final project\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<winbase.h>
+	<stdbool.h>
+	<time.h>
+
+1576907662 source:d:\csed 23\1st term\programming\project\final project\colors.c
+
+1576955676 source:d:\csed 23\1st term\programming\project\final project\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<winbase.h>
+	<stdbool.h>
+	<time.h>
+
+1576907662 source:d:\csed 23\1st term\programming\project\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<winbase.h>
+	<stdbool.h>
+
